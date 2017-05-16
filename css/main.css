@@ -4,11 +4,7 @@ body{
 a{
   color: gray;
 }
-th,
-td{
-border: 1px solid #ccc;
-padding: 1%;
-}
+
 .bg-gray-low{
   background-color: #eee;
 }
@@ -22,5 +18,8 @@ padding: 1%;
   padding: 2%;
 }
 .mt-62{
-  margin-top: 62px; 
+  margin-top: 62px;
+}
+#menu2 td {
+    vertical-align: middle;
 }
